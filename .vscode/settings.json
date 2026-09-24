@@ -1,0 +1,5 @@
+{
+    "editor.suggest.showStatusBar": false,
+    "problems.showCurrentInStatus": true,
+    "remote.autoForwardPortsFallback": 0
+}
